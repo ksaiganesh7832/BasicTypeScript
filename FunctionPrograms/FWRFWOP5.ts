@@ -5,7 +5,7 @@ function calculating() : number // Number is a retunr type with number value and
     let p : string = "Ganesh"
     console.log("The sum of a and b is "+ (a+b));
     return a;
-    return b;  // unreachable code detected
+    return b;  // unreachable code detected 
 }
 
 console.log(calculating());    // First--->We are calling the function with the function name Secomd--->We are gettimg the return value

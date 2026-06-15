@@ -14,7 +14,7 @@ let stuData =
     StuAge : "26"
 }
 
-for (let T in stuData)
+for (let T in stuData)     // for in 
 {
     console.log(stuData[T])
 }
